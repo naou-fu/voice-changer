@@ -33,7 +33,7 @@ The script uses a simple processing chain:
 ## 🎛️ Usage
 Simply run the script and speak!
 ```bash
-python pitch_shifter.py
+python voice_changer.py
 ```
 
 > **Tip:** Adjust the `PitchShift(semitones=...)` value in the code to change how high or low your voice goes.
